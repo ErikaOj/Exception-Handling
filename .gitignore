@@ -28,6 +28,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-out
-.idea
 Exception Handling.iml
+.idea
+out
